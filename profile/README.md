@@ -8,5 +8,5 @@ Add notes 📝<br />
 Message your connections 💬<br />
 And more...
 
-To try InLabels out just install it on your Chrome!<br />
+Try InLabels out and tell us what you think!<br />
 https://chromewebstore.google.com/detail/inlabels/kigldbibicfnokcmmoibklccgbpmiekd/
